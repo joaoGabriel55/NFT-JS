@@ -1,0 +1,5 @@
+/node_modules
+/artifacts
+/cache
+nft-metadata.json
+.env
